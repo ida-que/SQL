@@ -1,7 +1,7 @@
 ## SQL
 This is my SQL portfolio where you can find the following folders:
 
-1. [homework_1]()
+1. [homework_1](https://github.com/ida-que/SQL/tree/main/homework_1)
 2. [homework_2]()
 3. [homework_3]()
 4. [Theory - cheat sheet]()
